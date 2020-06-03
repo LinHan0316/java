@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ the\ methods\ for\ set\ and\ get\ for\ Player\ class\n\n\ @author\ Lin\ Han\n\ @version\ 2018/05/22\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ default\ constructor\ for\ Player\ Class\n
+comment2.params=newName\ newGoals
+comment2.target=Player(java.lang.String,\ int)
+comment2.text=\n\ non-default\ constructor\ for\ Player\ Class\n
+comment3.params=playerName
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\n\ method\ for\ setting\ name\ for\ player\n\ @pere\ playerName\n
+comment4.params=
+comment4.target=int\ getGoals()
+comment4.text=\n\ method\ for\ getting\ goals\n\ @return\ goals\n
+comment5.params=playerGoals
+comment5.target=void\ setGoals(int)
+comment5.text=\n\ method\ for\ setting\ goals\ for\ player\n\ @pere\ playerGoals\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\n\ method\ for\ getting\ name\n\ @return\ name\n
+numComments=7

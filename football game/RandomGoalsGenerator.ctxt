@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RandomGoalsGenerator
+comment0.text=\n\ generate\ random\ number\n\n\ @author\ Lin\ Han\n\ @version\ 2018/05/22\n
+comment1.params=
+comment1.target=RandomGoalsGenerator()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RandomGoalsGenerator\n
+comment2.params=
+comment2.target=boolean\ generateRedCard()
+comment2.text=\n\ the\ method\ for\ generating\ red\ card\ \n\ @return\ red\ card\n
+comment3.params=
+comment3.target=boolean\ generateYellowCard()
+comment3.text=\n\ the\ method\ for\ generating\ yellow\ card\ \n\ @return\ yellow\ card\n
+comment4.params=teamScore
+comment4.target=int\ playerScore(int)
+comment4.text=\n\ the\ method\ for\ generating\ total\ team\ score\ \n\ @pere\ team\ total\ score\n\ @return\ playerone's\ score\n
+comment5.params=
+comment5.target=int\ randomForHigherTeam()
+comment5.text=\n\ the\ method\ for\ generating\ scores\ for\ higher\ ranked\ team\n\ @return\ scores\n
+comment6.params=difference
+comment6.target=int\ randomForLowerTeam(int)
+comment6.text=\n\ the\ method\ for\ generating\ scores\ for\ lower\ ranked\ team\n\ @return\ scores\n\ @pere\ the\ difference\ \n
+numComments=7
